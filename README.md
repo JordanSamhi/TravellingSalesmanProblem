@@ -1,6 +1,6 @@
 # Travelling Salesman Problem
 
-This program is part of University of Lorraine first year of master degree.
+This program is part of University of Lorraine last year of bachelor degree.
 Given a list of points representing cities, the goal is to compute an approximation of the best solution of the travelling salesman problem using the simulated annealing.
 The project is made of two parts : 
 * The client ==> C++
